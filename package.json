@@ -1,7 +1,7 @@
 {
   "name": "is-zero-buffer",
   "version": "1.0.0",
-  "description": "WIP - nothing to see here",
+  "description": "Check is a buffer only contains 0s",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
