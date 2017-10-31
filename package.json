@@ -1,6 +1,6 @@
 {
   "name": "is-zero-buffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check is a buffer only contains 0s",
   "main": "index.js",
   "dependencies": {},
